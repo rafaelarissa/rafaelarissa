@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on web developing
-- 🌱 I’m currently learning Back-end
+- 🌱 I’m currently learning Docker
 - 📫 How to reach me: rafaelaljustino@gmail.com
 - 😄 Pronouns: she/her
 
