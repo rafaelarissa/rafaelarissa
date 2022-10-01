@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently studying web developing
+- 🔭 I’m currently open to work
 - 🌱 I’m currently learning Redis
 - 📫 How to reach me: rafaelaljustino@gmail.com
 - 😄 Pronouns: she/her
