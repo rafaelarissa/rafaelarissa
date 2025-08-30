@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently open to work
-- 🌱 I’m currently learning Java
+- 🔭 I’m currently enrolled on the ONE - Oracle Next Education program
+- 🌱 I’m currently learning Next.js
 - 📫 How to reach me: rafaelaljustino@gmail.com
 - 😄 Pronouns: she/her
 
