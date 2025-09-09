@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently enrolled on the ONE - Oracle Next Education program
 - 🌱 I’m currently learning Next.js
-- 📫 How to reach me: rafaelaljustino@gmail.com
+- 📫 How to reach me: linkedin.com/in/rafaelarissa/
 - 😄 Pronouns: she/her
 
 ### Languages and Tools:
